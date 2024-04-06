@@ -4,7 +4,7 @@
     <img src="https://img.shields.io/twitter/follow/astriel_x?label=Follow%20%40Astriel&style=social" alt="Twitter">
   </a>&ensp;
   <a href="https://app.daily.dev/astriel">
-    <img src="https://img.shields.io/badge/dev.to-Follow-lightgrey?style=social&logo=daily.dev" alt="daily.dev">
+    <img src="https://img.shields.io/badge/daily.dev-Follow-lightgrey?style=social&logo=daily.dev" alt="daily.dev">
   </a>
 </p>
 
