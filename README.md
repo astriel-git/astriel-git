@@ -3,8 +3,8 @@
   <a href="https://twitter.com/astriel_x">
     <img src="https://img.shields.io/twitter/follow/Mayur06322144?label=Follow%20%40Astriel&style=social" alt="Twitter">
   </a>&ensp;
-  <a href="https://dev.to/mayur091193">
-    <img src="https://img.shields.io/badge/dev.to-Follow-lightgrey?style=social&logo=dev.to" alt="dev.to">
+  <a href="https://app.daily.dev/astriel">
+    <img src="https://img.shields.io/badge/dev.to-Follow-lightgrey?style=social&logo=dev.to" alt="daily.dev">
   </a>
 </p>
 
